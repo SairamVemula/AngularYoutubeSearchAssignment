@@ -1,0 +1,67 @@
+@font-face {
+  font-family: "LeagueGothic";
+  src: url(../assets/LeagueGothic-Regular.otf) format("otf");
+}
+nav {
+  display: flex;
+  height: 70px;
+  align-items: center;
+  padding-left: 10px;
+}
+h1 {
+  font-size: 45px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 700;
+  letter-spacing: -5px;
+}
+svg.logo {
+  width: 40px;
+  height: 40px;
+  color: red;
+}
+svg.search {
+  margin-top: 5px;
+  width: 20px;
+  height: 20px;
+  color: rgb(131, 120, 120);
+}
+
+div.search {
+  margin: auto;
+  padding-left: 5px;
+  display: flex;
+  align-items: center;
+  min-width: 60vw;
+  border-radius: 2px;
+  border: 1px solid rgb(119, 114, 114);
+}
+input {
+  padding: 5px;
+  border: none;
+  width: 100%;
+  outline: none;
+}
+input::placeholder {
+  padding-left: 5px;
+  font-size: 1rem;
+  font-family: sans-serif;
+}
+button {
+  border: none;
+  border-left: 1px solid rgb(119, 114, 114);
+  background-color: rgb(228, 222, 222);
+  width: 80px;
+}
+div.more {
+  display: flex;
+  justify-content: center;
+}
+button.more-btn {
+  background-color: red;
+  /* border: 2px solid red; */
+  border-radius: 10px;
+  padding: 8px 5px;
+  font-weight: bold;
+  color: white;
+  outline: none;
+}

@@ -1,0 +1,832 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/wzF9KEn9MvR8os2x57O1feZS5HY\"",
+  "nextPageToken": "CDIQAA",
+  "prevPageToken": "CBkQAQ",
+  "regionCode": "IN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/Uv9akyUdL3TrXZ697GYB3wit4n8\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "arGRTVdG--c"
+      },
+      "snippet": {
+        "publishedAt": "2018-03-08T22:27:28.000Z",
+        "channelId": "UCMn28O1sQGochG94HdlthbA",
+        "title": "Angular CRUD Simple | Tu primer Aplicación CRUD en Angular",
+        "description": "Aprende a crear una aplicación de las cuatro operaciones básicas de todo sistemas, también conocido como un CRUD. esta aplicación esta pensada para ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/arGRTVdG--c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/arGRTVdG--c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/arGRTVdG--c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fazt Code",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/cCSLPzBg3bcc10ZTa_XRJI5ixSU\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YN8zNnV0sK8"
+      },
+      "snippet": {
+        "publishedAt": "2019-05-30T12:42:19.000Z",
+        "channelId": "UCg8ss4xW9jASrqWGP30jXiw",
+        "title": "Angular 8 - Быстрый курс за 60 минут",
+        "description": "Полный курс по Angular 8+: https://clc.to/angular Telegram: https://teleg.one/js_by_vladilen Instagram: https://www.instagram.com/vladilen.minin VK: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YN8zNnV0sK8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YN8zNnV0sK8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YN8zNnV0sK8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Владилен Минин",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/te37IpQU_5imCz-PcM2N0AQ2xPY\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FQc55WWUsXI"
+      },
+      "snippet": {
+        "publishedAt": "2019-08-05T12:00:02.000Z",
+        "channelId": "UCshZ3rdoCLjDYuTR_RBubzw",
+        "title": "Top 10 Tips For New Angular Developers",
+        "description": "Angular 8 is out and a lot of people are jumping on the Angular band wagon. I created this video to help new and old angular developers be better. All the tips ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FQc55WWUsXI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FQc55WWUsXI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FQc55WWUsXI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Program With Erik",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/7W9EKKOSfeB3Jo6MzymDCB_p51Y\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rc3E4tplFCU"
+      },
+      "snippet": {
+        "publishedAt": "2019-10-29T15:00:14.000Z",
+        "channelId": "UCg8ss4xW9jASrqWGP30jXiw",
+        "title": "Angular 40 вопросов для собеседования",
+        "description": "Полный курс по Angular 8+: https://clc.to/angular Добавляйте меня в ВК: https://vk.com/vladilen.minin Группа ВК: https://vk.com/js_by_vladilen Telegram:...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rc3E4tplFCU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rc3E4tplFCU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rc3E4tplFCU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Владилен Минин",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/5B2b_7am9dbGUyI9aExxeKKVZj4\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lyuT4_okMUQ"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-06T04:15:00.000Z",
+        "channelId": "UCsy12h-0xK_UCJDIDDEe0zQ",
+        "title": "Add Modules in Lazy Loaded components in Angular 9 | Lazy Loading in Angular 9",
+        "description": "Lazy Loading of the component in angular 9 is possible due to the implementation of the ivy compiler in angular 9, so now we can lazy load out component on ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lyuT4_okMUQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lyuT4_okMUQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lyuT4_okMUQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fun Of Heuristic",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/r6pFKR7X8QsDH-0NZ6QiPIv7pJk\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7JA90VI9fAI"
+      },
+      "snippet": {
+        "publishedAt": "2019-02-11T17:24:23.000Z",
+        "channelId": "UCsBjURrPoezykLs9EqgamOA",
+        "title": "Beautiful Router Animations with Angular",
+        "description": "Create beautiful page transitions with the Angular Router by building four different animation sequences from scratch ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7JA90VI9fAI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7JA90VI9fAI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7JA90VI9fAI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fireship",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/WRt3U69PXQXhGYSU21Uex_HhqbQ\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "O13X14TGtm8"
+      },
+      "snippet": {
+        "publishedAt": "2019-02-18T12:31:42.000Z",
+        "channelId": "UC1wUR-u23kgajW0PiiCmzPQ",
+        "title": "Crud en Angular + Spring de Java + MySQL - Servicio Web -  Parte 01",
+        "description": "Este proyecto fue creado con los siguientes: Para la aplicación FrontEnd es Desarrollado en Angular en su versión 7, y el código es editado en el Editor Visual ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O13X14TGtm8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O13X14TGtm8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O13X14TGtm8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SinFloo",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/P1S17uDE52NEjMvEGvXWJ2hLsAY\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jWODteEGQmw"
+      },
+      "snippet": {
+        "publishedAt": "2017-08-22T19:47:35.000Z",
+        "channelId": "UCCTVrRB5KpIiK6V2GGVsR1Q",
+        "title": "Angular dependency injection",
+        "description": "Text version of the video http://csharp-video-tutorials.blogspot.com/2017/08/angular-dependency-injection.html Slides ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jWODteEGQmw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jWODteEGQmw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jWODteEGQmw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "kudvenkat",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/nE4Ajyrc45-xcY3WmOqBC-rb3RM\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "m0yGx2MGZWg"
+      },
+      "snippet": {
+        "publishedAt": "2018-05-13T07:44:08.000Z",
+        "channelId": "UCe_H8hzx9WV7Ca7Ps5gt72Q",
+        "title": "Что такое Angular. Обзор возможностей",
+        "description": "В этом видео речь пойдет про javascript фреймворк Angular. Я расскажу что такое Angular, где и когда его применяют, а...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m0yGx2MGZWg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m0yGx2MGZWg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m0yGx2MGZWg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Web Developer Blog",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/AiFYXy_vhbTp7vD6lAhC63jDpOw\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YhazkQd59Hk"
+      },
+      "snippet": {
+        "publishedAt": "2018-03-06T21:28:30.000Z",
+        "channelId": "UCCTVrRB5KpIiK6V2GGVsR1Q",
+        "title": "Angular password and confirm password validation",
+        "description": "In this video we will discuss how to compare password and confirm password fields and validate if they are equal. If they are not equal we want to display ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YhazkQd59Hk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YhazkQd59Hk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YhazkQd59Hk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "kudvenkat",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/q-qn9P4AXdtgsV1lFl74_edl0ko\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "itovv4RUE4k"
+      },
+      "snippet": {
+        "publishedAt": "2017-12-01T17:24:56.000Z",
+        "channelId": "UChsRHn2u5tOelC57rw6JFBg",
+        "title": "ANGULAR i ROXMB NA LUCKY BLOCK!",
+        "description": "Grupa: https://www.facebook.com/groups/Angularek Instagram: http://instagram.com/angulareczek SNAPCHAT: ang.arek Kanał Roxa: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/itovv4RUE4k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/itovv4RUE4k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/itovv4RUE4k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AngularPlay",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/vzATs2iTQ6hkh0bJoGm7jI126ew\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "u1VCxpvDgsk"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-01T15:00:05.000Z",
+        "channelId": "UCvuY904el7JvBlPbdqbfguw",
+        "title": "Уроки Angular для начинающих / #1 - Введение в Angular",
+        "description": "Приступаем к изучению библиотеки Angular. В ходе курса мы создадим небольшой сайт и научимся всем основным...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u1VCxpvDgsk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u1VCxpvDgsk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u1VCxpvDgsk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Гоша Дударь",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/u0BBJR96MZzLBhiu6UhYZDNuxf4\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AR1tLGQ7COs"
+      },
+      "snippet": {
+        "publishedAt": "2018-07-10T22:26:32.000Z",
+        "channelId": "UCX9NJ471o7Wie1DQe94RVIg",
+        "title": "Angular 6 Curso Practico, Parte 1",
+        "description": "Aprende a desarrollar aplicaciones web frontend usando el framework de frontend Angular. aprenderemos a instalar nuestro entorno de desarrollo, crear ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AR1tLGQ7COs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AR1tLGQ7COs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AR1tLGQ7COs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fazt",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/UOrl-9HPu5QKZX4s034iFAkhrAM\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "l3qcrlTVYcQ"
+      },
+      "snippet": {
+        "publishedAt": "2019-07-03T09:47:55.000Z",
+        "channelId": "UCSSAUgEJcooorKS9Ty4uoPA",
+        "title": "Angular nedir ve hangi amaçla kullanılır ?",
+        "description": "Angular, Single Page Application (SPA) diye adlandırılan tek sayfalık javascript uygulamaları geliştirebildiğimiz ve Google tarafından geliştirilen popüler bir ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l3qcrlTVYcQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l3qcrlTVYcQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l3qcrlTVYcQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sadık Turan",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/Zj07PGT6fWc9YEkkiqVld1j-Bnw\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "S043kYbeBLk"
+      },
+      "snippet": {
+        "publishedAt": "2016-11-18T15:04:15.000Z",
+        "channelId": "UChsRHn2u5tOelC57rw6JFBg",
+        "title": "Angular VS Roxmb! WYŚCIG LUCKY BLOCK 2!",
+        "description": "Zostań moim widzem! http://bit.ly/1LY4L6y ▻Mój FanPage: http://bit.ly/1WeeaJe Kanał roxa: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S043kYbeBLk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S043kYbeBLk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S043kYbeBLk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AngularPlay",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/KgQklRhSAdtfQoAisKJWmoUfajw\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1jgqOt7s6Jo"
+      },
+      "snippet": {
+        "publishedAt": "2017-07-25T19:18:39.000Z",
+        "channelId": "UCCTVrRB5KpIiK6V2GGVsR1Q",
+        "title": "Angular component output properties",
+        "description": "Text version of the video http://csharp-video-tutorials.blogspot.com/2017/07/angular-component-output-properties.html Slides ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1jgqOt7s6Jo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1jgqOt7s6Jo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1jgqOt7s6Jo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "kudvenkat",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/2pjBzVs_DcWCTlkzdCZ1mzjaMb8\"",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCYFd7Qy93YP7gPERnxP545A"
+      },
+      "snippet": {
+        "publishedAt": "2017-02-13T21:03:22.000Z",
+        "channelId": "UCYFd7Qy93YP7gPERnxP545A",
+        "title": "Demos with Angular",
+        "description": "Learn about Angular by watching things get built with Angular.",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/-uY3vbyv1rY0/AAAAAAAAAAI/AAAAAAAAAAA/nGQlVMla5us/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/-uY3vbyv1rY0/AAAAAAAAAAI/AAAAAAAAAAA/nGQlVMla5us/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/-uY3vbyv1rY0/AAAAAAAAAAI/AAAAAAAAAAA/nGQlVMla5us/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          }
+        },
+        "channelTitle": "Demos with Angular",
+        "liveBroadcastContent": "upcoming"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/QYKCsZ16lpCFBrccrdS1NGy0OSQ\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Rf54BH35yrY"
+      },
+      "snippet": {
+        "publishedAt": "2019-09-04T15:00:12.000Z",
+        "channelId": "UCg8ss4xW9jASrqWGP30jXiw",
+        "title": "Angular 9 Основы. Полный Курс для начинающих",
+        "description": "Полный курс по Angular 9: https://clc.to/angular Подписывайся на соц сети: Telegram: https://teleg.one/js_by_vladilen Instagram: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Rf54BH35yrY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Rf54BH35yrY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Rf54BH35yrY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Владилен Минин",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/9dGCjFmt7tNV2Ldb1aH8KLxVUWc\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "54lvXWA3U-g"
+      },
+      "snippet": {
+        "publishedAt": "2017-10-05T19:33:02.000Z",
+        "channelId": "UCCTVrRB5KpIiK6V2GGVsR1Q",
+        "title": "Angular CLI project structure   1",
+        "description": "In this video we will discuss the Angular project structure. I have split this into 2 videos. In this video, we will discuss all the files and folders in the Angular project, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/54lvXWA3U-g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/54lvXWA3U-g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/54lvXWA3U-g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "kudvenkat",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/-xmTOs75QjQ7v3vffNa5jbDp6Wg\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YRVavS9SzBw"
+      },
+      "snippet": {
+        "publishedAt": "2019-06-03T02:24:31.000Z",
+        "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        "title": "Angular, React, Vue مين أحسن فيهم واستخدم ايه منهم",
+        "description": "Angular, React, Vue مين أحسن فيهم واستخدم ايه منهم.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YRVavS9SzBw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YRVavS9SzBw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YRVavS9SzBw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Elzero Web School",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/x--TA8jolW3u0-8B_9Q60pvSP5I\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YX0y1FMlb8I"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-14T22:14:37.000Z",
+        "channelId": "UClBrpNsTEFLbZDDMW1xiOaQ",
+        "title": "ANGULAR EM 7 MINUTOS - Tudo Que Você Precisa saber!",
+        "description": "Neste vídeo sobre Angular, vamos responder as principais dúvidas dos programadores iniciantes, como: QUAL A Diferença entre angular js, 2, 4 e 7? Descubra ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YX0y1FMlb8I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YX0y1FMlb8I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YX0y1FMlb8I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DevMedia",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/P8dsZ6Fc18bLqgS_y4jLE2_VFmE\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kbeWrBrQpA0"
+      },
+      "snippet": {
+        "publishedAt": "2019-05-03T01:57:30.000Z",
+        "channelId": "UCYzuLXpeHnBHgpac4-QCEyw",
+        "title": "Angular : Complete installation setup of Angular CLI, Node Js And NPM (Using Command Prompt)",
+        "description": "Angular complete Installation setup step by step tutorial. Learn how to setup angular, Node Js, Vscode in windows operating systems. In this video explains the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kbeWrBrQpA0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kbeWrBrQpA0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kbeWrBrQpA0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Teckie Share",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/vGAn6OCY6R0QZG7LTyowNmkPsxA\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xqWovo6Enq0"
+      },
+      "snippet": {
+        "publishedAt": "2019-09-24T13:00:09.000Z",
+        "channelId": "UCjWENuSH2gX55-y7QSZiWxA",
+        "title": "Angular Instalando o Angular CLI e criando o primeiro projeto #01",
+        "description": "Aprenda como instalar e iniciar um projeto com o Angular usando a interface de linha de comando Angular CLI que facilita a criação de recursos e é ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xqWovo6Enq0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xqWovo6Enq0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xqWovo6Enq0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "hcode",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/HYql2QU8L0DRDByhIvdqm0AtLJ0\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vfJgw1Al6UE"
+      },
+      "snippet": {
+        "publishedAt": "2019-07-07T03:55:10.000Z",
+        "channelId": "UC4cEOdd-saCKWJHv_Du8cLQ",
+        "title": "Curso Angular 8: Entendendo a Estrutura do Projeto e Hello World! - #02",
+        "description": "Apoie o canal: https://apoia.se/escola-front-end Colabore com o canal: https://www.patreon.com/escolaFrontEnd Olá pessoal hoje na segunda aula de angular 8 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vfJgw1Al6UE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vfJgw1Al6UE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vfJgw1Al6UE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Escola Front-end",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/9ZnpRWik5dCC4yiZaysUshFz2gA\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FIbLHrfO0tU"
+      },
+      "snippet": {
+        "publishedAt": "2014-11-17T00:20:36.000Z",
+        "channelId": "UCE2Zqj1YvDXOc6IoymNB0lA",
+        "title": "[ITA] AngularJS in 60 minuti (circa)  - Tutorial Completo - 1/2",
+        "description": "Alessandro vi guida nel mondo di AngularJs, il popolare framework javascript di google. In questa prima parte del tutorial svilupperemo la nostra prima ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FIbLHrfO0tU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FIbLHrfO0tU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FIbLHrfO0tU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WebYourMind",
+        "liveBroadcastContent": "none"
+      }
+    }
+  ]
+}

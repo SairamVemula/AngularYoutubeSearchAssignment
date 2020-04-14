@@ -1,0 +1,15 @@
+<!-- <p>result-card works!</p> -->
+
+<div appHover class="card-container">
+  <div class="image">
+    <img [src]="result.snippet.thumbnails.medium.url" alt="" />
+  </div>
+  <div class="title">
+    <h2>{{ result.snippet.title }}</h2>
+  </div>
+  <div class="description">
+    <p>
+      {{ result.snippet.description }}
+    </p>
+  </div>
+</div>
