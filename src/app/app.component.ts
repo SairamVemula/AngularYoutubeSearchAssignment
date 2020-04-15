@@ -1,5 +1,5 @@
 import { SearchService } from './search.service';
-import { Component, Inject } from '@angular/core';
+import { Component, Inject, HostBinding } from '@angular/core';
 
 @Component({
   selector: 'app-root',
@@ -12,6 +12,8 @@ export class AppComponent {
   searchList;
   nextList;
   nextPageToken: String;
+  hide = false;
+  // @HostBinding(class.hide) hide=true;
 
   constructor(private searchService: SearchService) {}
 
@@ -25,6 +27,7 @@ export class AppComponent {
   }
 
   loadMore() {
+    this.hide = true;
     console.log('More Clicked');
     this.searchService
       .loadMore(this.nextPageToken, this.search)
@@ -33,6 +36,7 @@ export class AppComponent {
         this.nextList = data;
         this.nextPageToken = this.nextList.nextPageToken;
         Array.prototype.push.apply(this.searchList.items, this.nextList.items);
+        this.hide = false;
       });
   }
 }

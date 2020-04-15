@@ -4,12 +4,12 @@
   <div class="image">
     <img [src]="result.snippet.thumbnails.medium.url" alt="" />
   </div>
-  <div class="title">
-    <h2>{{ result.snippet.title }}</h2>
-  </div>
-  <div class="description">
-    <p>
+  <div class="card-info">
+    <div class="title">
+      {{ result.snippet.title }}
+    </div>
+    <div class="description">
       {{ result.snippet.description }}
-    </p>
+    </div>
   </div>
 </div>

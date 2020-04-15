@@ -9,6 +9,8 @@ import { SearchResultComponent } from './search-result/search-result.component';
 import { ResultCardComponent } from './result-card/result-card.component';
 import { HoverDirective } from './hover.directive';
 import { SearchService } from './search.service';
+import { HideDirective } from './hide.directive';
+import { BeforeSearchComponent } from './before-search/before-search.component';
 
 @NgModule({
   declarations: [
@@ -16,6 +18,8 @@ import { SearchService } from './search.service';
     SearchResultComponent,
     ResultCardComponent,
     HoverDirective,
+    HideDirective,
+    BeforeSearchComponent,
   ],
   imports: [BrowserModule, AppRoutingModule, HttpClientModule, FormsModule],
   providers: [SearchService],

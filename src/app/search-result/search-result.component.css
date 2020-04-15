@@ -5,3 +5,10 @@ div {
   padding: 20px;
   background-color: rgb(232, 233, 235);
 }
+
+@media only screen and (max-width: 656px) {
+  div {
+    padding: 0;
+    min-width: 450px;
+  }
+}
